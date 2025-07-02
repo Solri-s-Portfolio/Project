@@ -15,14 +15,11 @@ This category would focus on networking, ELK Stack, and infrastructure managemen
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|---------------|------|------|
 | 1  | **ELK 스택을 이용한 타이타닉 데이터 분석** | ELK 스택을 이용한 타이타닉 데이터 분석 | Elasticsearch, Logstash, Kibana | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/B1ABOA/titanic_elk) | 2024-07-26 |
-| 1  | **HSRP 구축 프로젝트** | 고가용성을 위한 네트워크 구성 요소 이중화 | Cisco, GNS3 | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/Ungbbi/NSM) | 2024-09-13 |
-| 3  | **PowerScheduler System** | Crontab을 이용한 스마트 PC 관리 시스템 | Linux, Crontab, PAM | 👨‍👨‍👧‍👧<br/>3명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater) | 2024-09-20 |
-| 4  | **Deep Understanding of Average Load in Linux** | 리눅스 평균 부하(Load Average) 분석 | Linux | 🤼<br/>2명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater2) | 2024-09-23 |
-| 5  | **Docker Image 최적화 핵심 전략** |  Docker Image 최적화 방법 분석 | Linux, Docker | 🥰<br/>1명 | [GitHub 링크](https://github.com/soljjang777/DockerMaster1) | 2024-09-24 |
-| 6  | **Trivy를 활용한 보안 테스트** |  Trivy를 활용하여 보안 취약점을 탐지하는 방법과 그 결과를 분석 | Linux,Trivy  | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/lotuxsoo/Woori-FISA/tree/main/Trivy-Analysis) | 2024-09-25 |
-| 7  | **JMeter를 이용한 성능 테스트** |  AWS EC2에 Spring 애플리케이션 배포 및 JMeter를 이용한 성능 테스트 | AWS, JMeter | 🥰<br/>1명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater4) | 2024-10-08 |
-| 8  | **Jenkins 기반 CI/CD 파이프라인 구축 및 S3 자동 배포** |  Jenkins와 GitHub 웹훅을 활용한 CI/CD 파이프라인을 구축하였으며, 빌드된 JAR 파일을 AWS S3에 자동으로 업로드하여 배포 과정을 효율화 | AWS, Jenkins | 👨‍👨‍👧‍👧<br/>3명 | [GitHub 링크](https://github.com/MSD-CI-CD-pipeline/AWS-CI-CD-Pipeline) | 2024-10-08 |
-| 9  | **Terraform AWS S3 작업** |  Terraform을 사용하여 AWS S3 버킷 생성, 파일 업로드 및 수정 작업을 자동화 | AWS, Terraform | 🥰<br/>1명 | [GitHub 링크](https://github.com/soljjang777/Terraform1) | 2024-10-16 |
+| 2  | **PowerScheduler System** | Crontab을 이용한 스마트 PC 관리 시스템 | Linux, Crontab, PAM | 👨‍👨‍👧‍👧<br/>3명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater) | 2024-09-20 |
+| 3  | **Docker Image 최적화 핵심 전략** |  Docker Image 최적화 방법 분석 | Linux, Docker | 🥰<br/>1명 | [GitHub 링크](https://github.com/soljjang777/DockerMaster1) | 2024-09-24 |
+| 4  | **JMeter를 이용한 성능 테스트** |  AWS EC2에 Spring 애플리케이션 배포 및 JMeter를 이용한 성능 테스트 | AWS, JMeter | 🥰<br/>1명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater4) | 2024-10-08 |
+| 5  | **Jenkins 기반 CI/CD 파이프라인 구축 및 S3 자동 배포** |  Jenkins와 GitHub 웹훅을 활용한 CI/CD 파이프라인을 구축하였으며, 빌드된 JAR 파일을 AWS S3에 자동으로 업로드하여 배포 과정을 효율화 | AWS, Jenkins | 👨‍👨‍👧‍👧<br/>3명 | [GitHub 링크](https://github.com/MSD-CI-CD-pipeline/AWS-CI-CD-Pipeline) | 2024-10-08 |
+| 6  | **Terraform AWS S3 작업** |  Terraform을 사용하여 AWS S3 버킷 생성, 파일 업로드 및 수정 작업을 자동화 | AWS, Terraform | 🥰<br/>1명 | [GitHub 링크](https://github.com/soljjang777/Terraform1) | 2024-10-16 |
 
 
 <br>
